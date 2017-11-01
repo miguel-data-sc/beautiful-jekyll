@@ -24,7 +24,7 @@ description: Learning on Machine Learning
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
- Resources:
+  Resources:
  # Profile:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
