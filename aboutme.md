@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Or, better, how I ended up with a blog on Data Science.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+As I plan to speak here about DL, AI, or any other fancy name for Machine Learning you may choose, let's just focus on that part of the " About me". (Life adventures, experiences and hobbies will have to wait a bit, maybe some will find a place in future posts) 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+So, my travel in Data Science up to this moment: 
 
-What else do you need?
+**Pre-data science background:** 
+Studies of Architecture and Urbanism + 14 years of experience in corporate world. 
 
-### my history
+**Data science background:**
+Mostly Kaggle. Sure, some MOOCs and quite a lot of books but Kaggle has been the environment where I've had most learning and fun in recent times. You can check out some of my posts, kernels and overall results [here].(https://www.kaggle.com/miguelpm)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Recently I got admitted to Jeremy Howard and Rachel Thomas' FASTAI international fellowship program that is taking place during fall of 2017. Fastai is such a rich learning environment and Im grateful for being there. It feels just fair to share at least part of my knowledge in published form.
